@@ -4,7 +4,6 @@
 
 ## Currently working as a hardware developer, that would like to become a react front-end developer.
 
--   Looking forward to start as a React front-end Developer.
 -   Still learning by making new project (do not forget to check out my repository!)
 
 ### Connect with me:
