@@ -2,15 +2,16 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
-## Currently working as a hardware developer, that would like to become a react front-end developer.
+## Currently working as a hardware developer, that is becoming a react front-end developer.
 
--   Still learning by making new project (do not forget to check out my repository!)
+-   Looking forward to start as a React front-end Developer.
+-   Still learning by making new projects (do not forget to check out my repository!)
 
 ### Connect with me:
 
 [<img align="left" alt="Dariusz Legizynski" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Dariusz Legizynski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dariusz Legizynski | Codesandbox" width="22px" src="background: url('https://api.iconify.design/simple-icons:codesandbox.svg') no-repeat center center / contain;" />][codesandbox]
+[<img align="left" alt="Dariusz Legizynski | Codesandbox" width="22px" src="https://api.iconify.design/simple-icons:codesandbox.svg" />][codesandbox]
 
 <br />
 
@@ -31,7 +32,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Dariusz Legizynski's GitHub Stats" src="https://github-readme-stats.DariuszLegizynski.vercel.app/api?username=DariuszLEgizynski&show_icons=true&hide_border=true" />
+  <img align="left" alt="Dariusz Legizynski's GitHub Stats" src="https://github-readme-stats.DariuszLegizynski.vercel.app/api?username=DariuszLegizynski&show_icons=true&hide_border=true" />
 
 </details>
 
