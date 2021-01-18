@@ -29,8 +29,7 @@
 
 ### <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Dariusz Legizynski's GitHub Stats" src="https://github-readme-stats.dariuszlegizynski.vercel.app
-/api?username=dariuszlegizynski&show_icons=true&hide_border=true" />
+  <img align="left" alt="Dariusz Legizynski's GitHub Stats" src="https://github-readme-stats.dariuszlegizynski.vercel.app/api?username=dariuszlegizynski&show_icons=true&hide_border=true" />
 
 [website]: https://DariuszLegizynski.com
 [codesandbox]: https://codesandbox.io/u/DariuszLegizynski
