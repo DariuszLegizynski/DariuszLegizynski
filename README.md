@@ -1,7 +1,5 @@
 ### Hello, my name is Dariusz Legizynski, welcome to my GitHub page! [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-
 ## Currently working as a hardware developer, that is becoming a react front-end developer.
 
 -   Looking forward to start as a React front-end Developer.
