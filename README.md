@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Dariusz Legizynski's GitHub Stats" src="https://github-readme-stats.DariuszLegizynski.vercel.app/api?username=DariuszLegizynski&show_icons=true&hide_border=true" />
+  <img align="left" alt="Dariusz Legizynski's GitHub Stats" src="https://github-readme-stats.dariuszdegizynski.vercel.app/api?username=dariuszlegizynski&show_icons=true&hide_border=true" />
 
 [![Dariusz Legizynski's github stats](https://github-readme-stats.vercel.app/api?username=dariuszlegizynski)](https://github.com/dariuszlegizynski/github-readme-stats)
 
