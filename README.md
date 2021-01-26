@@ -26,8 +26,6 @@
 
 <br />
 
-<br />
-
 ### My own projects:
 https://myamazingshop-ae51c.web.app/
 
@@ -37,9 +35,6 @@ https://readeo.netlify.app/
 
 https://dariuszlegizynski.github.io/Tetris_WebApp/
 
-
-<br />
-
 <br />
 
 ### Connect with me:
@@ -47,8 +42,6 @@ https://dariuszlegizynski.github.io/Tetris_WebApp/
 [<img align="left" alt="Dariusz Legizynski" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Dariusz Legizynski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dariusz Legizynski | Codesandbox" width="22px" src="https://api.iconify.design/simple-icons:codesandbox.svg" />][codesandbox]
-
-<br />
 
 <br />
 
