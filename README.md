@@ -48,6 +48,8 @@
 
 <br />
 
+<br />
+
 ### <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Dariusz Legizynski's GitHub Stats" src="https://github-readme-stats.dariuszlegizynski.vercel.app/api?username=dariuszlegizynski&show_icons=true&hide_border=true" />
