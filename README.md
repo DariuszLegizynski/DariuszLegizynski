@@ -1,7 +1,7 @@
 ## Hello there, I'm Dariusz Legizynski
 ### and this is my [website] :star2:
 
-### I'm a React Front-End Developer, who loves to code:gift_heart:!
+### I'm a React Front-End Developer, who loves to code! :gift_heart:
 
 -   :+1: 2021 Goals: Contribute to open source projects, deepen my knowledge on React and CSS3.
 -   :muscle: Looking forward to collaborate with other passionate developers.
