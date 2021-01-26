@@ -6,7 +6,7 @@
 -   :+1: 2021 Goals: Contribute to open source projects, deepen my knowledge on React and CSS3.
 -   :muscle: Looking forward to collaborate with other passionate developers.
 -   :clap: Currently working as a hardware developer, but am becoming a react front-end developer.
--   :family: Besides coding I'm a husband and father, that loves to spend my time with my family.
+-   :family: Besides coding I'm a husband and father and I love to spend my free time with my family.
 
 <br />
 
