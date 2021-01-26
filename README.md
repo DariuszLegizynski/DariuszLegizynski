@@ -1,4 +1,5 @@
-## Hello there, I'm Dariusz Legizynski and this is my [website] 👋
+## Hello there, I'm Dariusz Legizynski
+### and this is my [website] 👋
 
 ### I'm a Front End Developer, who loves to code!
 
