@@ -6,7 +6,7 @@
 -   Currently working as a hardware developer, that is becoming a react front-end developer.
 -   Looking forward to collaborate with other passionate developers.
 -   2021 Goals: Contribute to open source projects, deepen my knowledge on React and CSS3.
--   Offtop fact: besides coding am a husband and father, that loves to spend time with his family.
+-   Fun fact: besides coding am a husband and father, that loves to spend time with his family.
 
 <br />
 
