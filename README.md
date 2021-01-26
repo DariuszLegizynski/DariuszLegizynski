@@ -52,6 +52,6 @@
 
   <img align="left" alt="Dariusz Legizynski's GitHub Stats" src="https://github-readme-stats.dariuszlegizynski.vercel.app/api?username=dariuszlegizynski&show_icons=true&hide_border=true" />
 
-[website]: https://DariuszLegizynski.com
+[website]: https://dariuszlegizynski.netlify.app/
 [codesandbox]: https://codesandbox.io/u/DariuszLegizynski
 [linkedin]: https://www.linkedin.com/in/dariuszlegizynski/
