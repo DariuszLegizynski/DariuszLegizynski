@@ -30,8 +30,11 @@
 
 ### My own projects:
 https://myamazingshop-ae51c.web.app/
+
 https://soccer-time-ea700.web.app/home
+
 https://readeo.netlify.app/
+
 https://dariuszlegizynski.github.io/Tetris_WebApp/
 
 
