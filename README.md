@@ -1,7 +1,7 @@
 ## Hello there, I'm Dariusz Legizynski
 ### and this is my [website] 👋
 
-### I'm a Front End Developer, who loves to code!
+### I'm a React Front-End Developer, who loves to code!
 
 -   Currently working as a hardware developer, that is becoming a react front-end developer.
 -   Looking forward to collaborate with other passionate developers.
