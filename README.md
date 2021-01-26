@@ -1,12 +1,12 @@
 ## Hello there, I'm Dariusz Legizynski
-### and this is my [website] 👋
+### and this is my [website] :star2:
 
-### I'm a React Front-End Developer, who loves to code!
+### I'm a React Front-End Developer, who loves to code:gift_heart:!
 
--   Currently working as a hardware developer, that is becoming a react front-end developer.
--   Looking forward to collaborate with other passionate developers.
--   2021 Goals: Contribute to open source projects, deepen my knowledge on React and CSS3.
--   Fun fact: besides coding I'm a husband and father, that loves to spend my time with my family.
+-   :+1: 2021 Goals: Contribute to open source projects, deepen my knowledge on React and CSS3.
+-   :muscle: Looking forward to collaborate with other passionate developers.
+-   :clap: Currently working as a hardware developer, but am becoming a react front-end developer.
+-   :family: Fun fact: besides coding I'm a husband and father, that loves to spend my time with my family.
 
 <br />
 
@@ -30,13 +30,13 @@
 
 ### My own projects:
 
-https://myamazingshop-ae51c.web.app/
+:heart: https://myamazingshop-ae51c.web.app/
 
-https://soccer-time-ea700.web.app/home
+:fire: https://soccer-time-ea700.web.app/home
 
-https://readeo.netlify.app/
+:star: https://readeo.netlify.app/
 
-https://dariuszlegizynski.github.io/Tetris_WebApp/
+:smile_cat: https://dariuszlegizynski.github.io/Tetris_WebApp/
 
 <br />
 
