@@ -24,13 +24,6 @@
 [<img align="left" alt="Dariusz Legizynski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dariusz Legizynski | Codesandbox" width="22px" src="https://api.iconify.design/simple-icons:codesandbox.svg" />][codesandbox]
 
-<br />
-
-
-
-<br />
-<br />
-
 ### <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Dariusz Legizynski's GitHub Stats" src="https://github-readme-stats.dariuszlegizynski.vercel.app/api?username=dariuszlegizynski&show_icons=true&hide_border=true" />
