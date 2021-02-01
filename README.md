@@ -30,12 +30,16 @@
 
 ### My own projects:
 
+#### MyAmazingShop
 :heart: https://myamazingshop-ae51c.web.app/
 
+#### SoccerTime
 :fire: https://soccer-time-ea700.web.app/home
 
+#### Readeo
 :star: https://readeo.netlify.app/
 
+#### TetrisJS
 :smile_cat: https://dariuszlegizynski.github.io/Tetris_WebApp/
 
 <br />
