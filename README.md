@@ -3,7 +3,7 @@
 
 ### I'm a React and Vue Front-End Developer, who loves to code! :gift_heart:
 
--   :+1: 2021 Goals: Contribute to open source projects, learn Jest and Typescript.
+-   :+1: Goals: Contribute to open source projects, learn Jest and Typescript.
 -   :muscle: Looking forward to collaborate with other passionate developers.
 -   :clap: Currently working as a hardware developer, but am becoming a react front-end developer.
 -   :family: Besides coding I'm a husband and father and I love to spend my free time with my family.
