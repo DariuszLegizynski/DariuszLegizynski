@@ -1,7 +1,7 @@
 ## Hello there, I'm Dariusz Legizynski
 ### and this is my [website] :star2:
 
-### I'm a React and Vue Front-End Developer, who loves to code! :gift_heart:
+### I'm a React_Nextjs and Vue/Nuxtjs Front-End Developer, who loves to code! :gift_heart:
 
 -   :+1: Goals: Contribute to open source projects, learn Jest and Typescript.
 -   :muscle: Looking forward to collaborate with other passionate developers.
