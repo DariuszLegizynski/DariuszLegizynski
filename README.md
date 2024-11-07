@@ -1,12 +1,11 @@
 ## Hello there, I'm Dariusz Legizynski
 ### and this is my [website] :star2:
 
-### I'm a React_Nextjs and Vue/Nuxtjs Front-End Developer, who loves to code! :gift_heart:
+### I'm a React/Nextjs and Vue/Nuxtjs Front-End Developer, who loves to code! :gift_heart:
 
--   :+1: Goals: Contribute to open source projects, learn Jest and Typescript.
--   :muscle: Looking forward to collaborate with other passionate developers.
--   :clap: Currently working as a hardware developer, but am becoming a react front-end developer.
--   :family: Besides coding I'm a husband and father and I love to spend my free time with my family.
+-   Looking forward to collaborate with other passionate developers.
+-   A front-end developer that is working towards full-stack.
+-   Besides coding I'm a husband and father and I love to spend my free time with my family.
 
 <br />
 
@@ -26,35 +25,12 @@
 
 <br />
 
-<br />
-
-### My own projects:
-
-#### Wi-Mag
-:star: https://readeo.netlify.app/
-
-#### MyAmazingShop
-:heart: https://myamazingshop-ae51c.web.app/
-
-#### SoccerTime
-:fire: https://soccer-time-ea700.web.app/home
-
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="Dariusz Legizynski" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Dariusz Legizynski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dariusz Legizynski | Codesandbox" width="22px" src="https://api.iconify.design/simple-icons:codesandbox.svg" />][codesandbox]
 
 <br />
-
-<br />
-
-### <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Dariusz Legizynski's GitHub Stats" src="https://github-readme-stats.dariuszlegizynski.vercel.app/api?username=dariuszlegizynski&show_icons=true&hide_border=true" />
 
 [website]: https://dariuszlegizynski.netlify.app/
-[codesandbox]: https://codesandbox.io/u/DariuszLegizynski
 [linkedin]: https://www.linkedin.com/in/dariuszlegizynski/
