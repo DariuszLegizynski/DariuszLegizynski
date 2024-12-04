@@ -32,5 +32,5 @@
 
 <br />
 
-[website]: https://dariuszlegizynski.netlify.app/
+[website]: https://dariuszlegizynski.com
 [linkedin]: https://www.linkedin.com/in/dariuszlegizynski/
